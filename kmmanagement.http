@@ -1,0 +1,6 @@
+@kmmanagement_HostAddress = http://localhost:5102
+
+GET {{kmmanagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
